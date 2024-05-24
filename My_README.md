@@ -19,7 +19,7 @@
 | --------                 | -------- | -------- | 
 | tinyllama-1.1b-chat-v0.3.Q4_K_M.gguf  | XXXX     | XXXX     |
 | TinyLlama-1.1B-Chat-v1.0-f16  | XXXX     | XXXX     |
-| TinyLlama-1.1B-Chat-v1.0-Q8  | XXXX     | XXXX     |
+| TinyLlama-1.1B-Chat-v1.0-Q8  | 4.43     | 14.49     |
 
 
 ### Advance Challenge
