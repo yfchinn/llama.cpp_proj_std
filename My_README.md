@@ -38,8 +38,8 @@
 * Will quantization or smaller-parameters model impact model accuracy or inference throughput? If so, what's the variation?  
   Ans: Yes. The smaller-parameters model has lower accuracy and higher throughput.  
   Experimental data shows:
-   - throughput: Q4 > Q8 > f16
-   - accuracy: Q8 > f16 > Q4 (contrary to the initial expectation of f16 > Q8 > Q4)
+   * throughput: Q4 > Q8 > f16
+   * accuracy: Q8 > f16 > Q4 (contrary to the initial expectation of f16 > Q8 > Q4)
 
 
 
