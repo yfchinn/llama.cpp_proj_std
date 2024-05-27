@@ -26,9 +26,9 @@
 
 | Throughputs (Tokens/sec) | Accuracy  |
 | --------                 | --------  |
-| tinyllama-1.1b-chat-v0.3.Q4_K_M.gguf | x/10     |
-| TinyLlama-1.1B-Chat-v1.0-f16         | x/10     |
-| TinyLlama-1.1B-Chat-v1.0-Q8          | x/10     |
+| tinyllama-1.1b-chat-v0.3.Q4_K_M.gguf | 1/10     |
+| TinyLlama-1.1B-Chat-v1.0-f16         | 2/10     |
+| TinyLlama-1.1B-Chat-v1.0-Q8          | 5/10     |
 
 ### Questions
 * What problems you encountered? How you solve it?
