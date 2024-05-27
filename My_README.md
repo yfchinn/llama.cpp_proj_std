@@ -33,7 +33,7 @@
 ### Questions
 * What problems you encountered? How you solve it?
 * What you observed between CPU / GPU performance?
-  Ans: In terms of performance, GPU is about 10 times faster than CPU.
+ - Ans: In terms of performance, GPU is about 10 times faster than CPU.
 * Will quantization or smaller-parameters model impact model accuracy or inference throughput? If so, what's the variation?
 * Ans: Yes. The quantized model has better accuracy and higher throughput.
 
